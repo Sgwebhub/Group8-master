@@ -1,48 +1,28 @@
 ---
-title: "This is a title of NEW Blog Post "
+title: "Science Fiction Movies with Something to Say about Ethical Technology Innovation"
 date: "04-03-2022"
-author: "member1"
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
-image: "blog1"
+author: "Somya Gupta"
+description: "These Five sci-fi movies can provide quite startling insights into the promise and perils of future technology if viewed in the right way"
+image: "bloginn"
 ---
 
-# What is Lorem Ipsum?
+# These Five sci-fi movies can provide quite startling insights into the promise and perils of future technology if viewed in the right way
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-## Why do we use it?
+Kazuo Ishiguru’s book Never let Me Go, and the movie that was based on it, were never meant to be works of science fiction. Despite this, they are a chilling reminder of how easily a deeply-desirable technology can erode the moral soul of a society. The technology in question here is human cloning. It’s a tech that’s continued to mature since the birth of Dolly the Sheep in 1996, and it’s getting closer to enabling people to be cloned. This, of course, is an ethically fraught area. But there’s a good chance that human reproductive cloning is going to happen at some point. We can already do this with dogs, cows, and other animals, and while humans are far more difficult, it’s more a case of “watch this space” than “not in my lifetime.” Of course, this does mean we’re going to have to grapple with the ethical minefield human reproductive cloning opens up.
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+## 1 NEVER LET ME GO (2010)
 
-# Where does it come from?
+Steven Spielberg’s Minority Report is rich in advanced technologies, from sophisticated displays and mind-hijacking “halos”, to ubiquitous biomonitoring. But it’s the crime-prediction that really stands out both as an emerging technology in today’s society, and a salutary warning against its misuse. Of course, the future-seeing precogs in the movie are pure fiction, but we are surrounded by an increasing array of science and tech that people believe can predict where a crime will occur, and who will be involved, before it happens. Functional MRI scans, artificial intelligence and data analytics are all being used to try and pre-empt crimes before they happen. And while some of these attempts are clearly barking up the wrong tree, others are getting scarily good at predicting what people will do. Yet under all this is the question, just because we can do this, should we? And in many cases, the answer is probably “no”.
+## 2 MINORITY REPORT (2002)
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.
+Steven Spielberg’s Minority Report is rich in advanced technologies, from sophisticated displays and mind-hijacking “halos”, to ubiquitous biomonitoring. But it’s the crime-prediction that really stands out both as an emerging technology in today’s society, and a salutary warning against its misuse. Of course, the future-seeing precogs in the movie are pure fiction, but we are surrounded by an increasing array of science and tech that people believe can predict where a crime will occur, and who will be involved, before it happens. Functional MRI scans, artificial intelligence and data analytics are all being used to try and pre-empt crimes before they happen. And while some of these attempts are clearly barking up the wrong tree, others are getting scarily good at predicting what people will do. Yet under all this is the question, just because we can do this, should we? And in many cases, the answer is probably “no”.
 
-- from a Lorem Ipsum passage
-- and going through the cites
-- of the word in classical literature
+## 3 LIMITLESS (2011)
+In 2007, the journal Nature published an article on the use of “smart drugs” by academics with the title “Professor’s little helper”. It seems that there’s a growing interest in pharmaceutically-enhanced intelligence amongst everyone from academics and students to entrepreneurs, and as our understanding of what gets our brains going increases, so does the sophistication of these artificial enhancements. We may not get to the level of the drug NZT in the movie Limitless, but smart drugs — whether Amazon-ordered nootropics, LSD-containing “stacks”, or even every-day shots of caffeine — are increasingly a part of our lives. And perhaps surprisingly, many people seem to be OK with this. I just wonder how they’ll feel when you have to be dosed up to even get as far as a first interview in an increasingly competitive job market.
 
-# discovered the undoubtable source
+## 4 ELYSIUM (2013)
+Elysium is a movie that takes itself very seriously — almost too seriously — as it preaches about the evils of the “1%” having too much power over the “99%”. And perhaps because this is a movie with a deeply social message, the validity of the science in it leaves a little to be desired. Yet there are surprising parallels between the seemingly-miraculous medical pods in the movie that the rich use to keep themselves disease-free, and the emerging field of bioprinting. For a number of years now, scientists have been developing 3D printers capable of producing facsimiles of human body parts, by printing with a combination of cell-containing “bio-inks” and biocompatible support materials. And just in the past year or so, they’ve started to radically increase the speed and sophistication of these techniques — to the point where it may be possible to get 3D printed replacement bones, skin, and vital organs within the next few years. Reflecting this, the goal of the company Prellis Biologics is to 3D print the “entire vasculature of a human kidney in twelve hours or less” — and they are well on the way of achieving this. The question is, when they do, who gets the first 3D printed replacement kidneys?
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-```
-npm install -global yarn
-npm install -global gatsby-cli
-yarn
-gatsby develop
-yarn add bootstrap @popperjs/core sass gatsby-plugin-sass
-
-```
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-
-# Where can I get some?
-
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
-
-> All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.
-
-### Heading
-
-It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+## 5 GHOST IN THE SHELL (1995)
+Forget the “ghost” of a movie-remake of Ghost in the Shell that came out in 2017 — in contrast, the original Ghost is a masterpiece of meditation around what it means to be human in an age of body augmentation. And while we may be decades away from the tech in this beautiful Anime movie, it hints strongly at what’s to come. We’re already used to highly sophisticated prosthetics, and implanted devices like defibrillators. And Elon Musk’s company Neuralink is working hard on developing brain-computer interfaces that mimic the neural lace technology in Iain M. Banks’ Culture novels. On top of this, there’s a thriving (if slightly fringe) body-hacking community of people intent on implanting themselves with everything from magnets to RFID chips and more. With rapidly advancing robotics, internet-connected devices and AI, we’re probably on the cusp of a surge of body-augmentation technologies. Which is great, until we begin to ask what happens when we need a software upgrade and don’t want to pay for it, or there’s a recall…

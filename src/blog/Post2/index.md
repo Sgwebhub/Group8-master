@@ -1,48 +1,32 @@
 ---
-title: "This is a second Blog Post"
+title: "The 5 Best Political Movies of All Time"
 date: "01-03-2022"
-author: "member2"
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
-image: "blog2"
+author: "Trisha Roy"
+description: "With the presidential election looming large, we thought we’d look at the best 10 movies focusing on politics."
+image: "blogo"
 ---
 
-# What is Lorem Ipsum?
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Politics is an awfully touchy subject, because it involves people’s core concepts and beliefs on how a nation should be run, how its citizens should be treated, and who’s fit to control all that. These films remind us of the incredible power of political offices, and that people who acquire those offices aren’t always the best-qualified, most moral, or even law-abiding candidates. Vote, people. Seriously.
 
-## Why do we use it?
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
 
-# Where does it come from?
+## 1. The War Room (1993)
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.
+This documentary explores Bill Clinton’s 1992 election campaign. Clinton isn’t seen as often as you’d assume; the film’s true stars are two members of the Clinton campaign, James Carville and George Stephanopoulos. It’s an engaging investigation into the inner-workings of politics, specifically the masters of spin who so expertly manipulate and craft messages at the expense of, well, truth.
 
-- from a Lorem Ipsum passage
-- and going through the cites
-- of the word in classical literature
+## 2. Meet John Doe (1941)
 
-# discovered the undoubtable source
+Columnist Ann Mitchell (Barbara Stanwyck) fabricates a “John Doe” letter, in which a depressed man says he’ll commit suicide after becoming so tired of America’s ills. To satisfy the public and appease the critics, the newspaper is forced to hire “Long John” Willoughby (Gary Cooper) to play the real John Doe. He sparks a grass-roots political campaign that eventually gets threatened by a financier (Edward Arnold), who’s looking for his own political gain. One line, delivered by Stanwyck, is especially memorable and is captured expertly by director Frank Capra (“If it’s worth dying for, then it’s worth living for”)
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
+## 3 Election (1999)
 
-```
-npm install -global yarn
-npm install -global gatsby-cli
-yarn
-gatsby develop
-yarn add bootstrap @popperjs/core sass gatsby-plugin-sass
+Okay, so it’s not a film about governmental politics, but what’s a better setting for political satire than a high school? Tracy Flick (Reese Witherspoon) is running for head of student council. But civics teacher Jim McAllister (Matthew Broderick) despises her and desperately wants to derail her progress, so he convinces football player (Chris Klein) to run against her. Shallow, power-hungry, selfish people do whatever it takes to get their way, including destroying others, proving that high school and politics are scarily similar (and frequently funny).
+## 4. All the King’s Men (1949)
 
-```
+Even though the film’s in black-and-white, it expertly explores shades of gray in politics and human nature (yep, that pun sucked). Broderick Crawford plays Willie Stark, a Southern lawyer who has grand ideas for helping his state but no political experience. The opposition hires him to simply split the vote, but he wins, retains power, and (from his perspective) makes everything better — by toying with populist emotions and engaging in illegal, corrupt, and immoral behavior. It’s an engrossing look at the malignant influence of power and ambition, and how their acquisition often impels disreputable actions.
 
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+## 5. Mr. Smith Goes to Washington (1939)
 
-# Where can I get some?
+Similar to All The King’s Men (and not just because it’s incredibly old), this film chronicles the tale of Jefferson Smith (Jimmy Stewart). He’s the leader of a boy-scout troop before being recruited to the Senate by a team that believes he’ll do whatever he’s told—specifically, allow the building of a dam that will make said team rich. But unlike All The King’s Men, the main character isn’t corrupted by politics, but rather defies and decries the corruption. Another film directed by the iconic Frank Capra, who’s responsible for a bunch of film classics (It’s A Wonderful Life, No. 6 Meet John Doe), Mr. Smith has major sentimental overtones and desire for a fantastical world, as Stewart’s character displays a fortitude and integrity we wish all politicians had. It’s old, but it’s still incredibly good.
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
-
-> All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.
-
-### Heading
-
-It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.

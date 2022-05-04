@@ -3,27 +3,15 @@ import Accordion from "../Accordion/Accordion"
 
 const Item = [
   {
-    title: "Section 1",
-    content: `Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis sapiente
-        laborum cupiditate possimus labore, hic temporibus velit dicta earum
-        suscipit commodi eum enim atque at? Et perspiciatis dolore iure
-        voluptatem.`,
+    title: "How does this website save our time?",
+    content: `Study-Hall have movies/series related to subject and also provides book at the same page. you can get both things at same page by just scrolling up and down.`,
   },
   {
-    title: "Section 2",
-    content: `Lorem ipsum, dolor sit amet consectetur adipisicing elit. Mollitia veniam
-        reprehenderit nam assumenda voluptatem ut. Ipsum eius dicta, officiis
-        quaerat iure quos dolorum accusantium ducimus in illum vero commodi
-        pariatur? Impedit autem esse nostrum quasi, fugiat a aut error cumque
-        quidem maiores doloremque est numquam praesentium eos voluptatem amet!
-        Repudiandae, mollitia id reprehenderit a ab odit!`,
+    title: "Is it contain UPSE related Subjects?",
+    content: `yes, it contains. you can find "History and Political science"`,
   },
-  {
-    title: "Section 3",
-    content: `Sapiente expedita hic obcaecati, laboriosam similique omnis architecto ducimus magnam accusantium corrupti
-        quam sint dolore pariatur perspiciatis, necessitatibus rem vel dignissimos
-        dolor ut sequi minus iste? Quas?`,
-  },
+  
+  
 ]
 
 const FAQ = () => {

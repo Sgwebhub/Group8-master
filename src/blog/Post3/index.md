@@ -1,48 +1,18 @@
 ---
-title: "This is a title of THIRD Blog Post "
+title: "5 Great Real-Life Stories Told on the Big Screen"
 date: "02-03-2022"
-author: "member3"
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
-image: "blog3"
+author: "Nikita Kumari"
+description: "Biopics can tell the story of a movement, era, or idea through one individual’s life—have become so popular in recent years."
+image: "blogb"
 ---
+## 5. 'Malcolm X'(1992).
+ No one but Spike Lee could have made this epic, which follows not just the Black Muslim firebrand's biography but also the history of urban African-American life in the tumultuous middle years of the 20th century. Denzel Washington gives one of his most impassioned performances as he portrays Malcolm X's evolution from zoot-suited street thug to convict to civil rights leader to spiritual pilgrim.
+## 4. 'My Left Foot' (1989).
+ Daniel Day-Lewis won an Oscar for his thorough immersion into the cerebral palsy-wracked body of Christy Brown, the Irish author and artist who learned to write and paint with the title appendage, the one limb he could control. Day-Lewis deserves credit for bringing Brown to raucous, profane, unsentimental life, but so does Hugh O'Conor, who plays the boy Christie with equally fierce determination.
+## 3. 'Schindler's List' (1993).
+ In the world of near-universal evil, how do you explain the shock of goodness like that of Oskar Schindler, the industrialist who risked his business, his fortune, and his life to save more than a thousand Polish Jews from the Holocaust? Wisely, Liam Neeson doesn't even try to explain it, delivering instead a tricky, close-to-the-vest performance as a con man confident enough to think he could cheat the Devil. Director Steven Spielberg brings all of his formidable gifts to bear on this story, giving it a feverish moral and dramatic intensity he's seldom approached before or since.
+## 2. 'Raging Bull' (1980).
+ If Jake LaMotta hadn't existed, Martin Scorsese might have had to invent him. As portrayed in this film, the Italian-American boxer is a human volcano, erupting with violence, machismo, sexual hangups, guilt, and possible redemption. An archetypal Scorsese anti-hero, he's played with total commitment by Robert De Niro, who popularized here the Method technique of ruining his body, packing on 60 pounds to play the older, heavier LaMotta. Working in silvery black and white and choreographing the boxing matches so that they play like sex scenes, Scorsese and De Niro create a character study that's horrifying, fascinating, and utterly compelling.
+## 1. 'Lawrence of Arabia' (1962).
+ The real T.E. Lawrence was an inscrutable figure, looming like a desert mirage and enshrouded by his own self-mythologizing, but David Lean's sand-swept masterpiece immerses you in its widescreen vistas and makes you feel like you're riding alongside him, charging across the dunes and fighting the Turks.
 
-# What is Lorem Ipsum?
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
-
-## Why do we use it?
-
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
-
-# Where does it come from?
-
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur.
-
-- from a Lorem Ipsum passage
-- and going through the cites
-- of the word in classical literature
-
-# discovered the undoubtable source
-
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-```
-npm install -global yarn
-npm install -global gatsby-cli
-yarn
-gatsby develop
-yarn add bootstrap @popperjs/core sass gatsby-plugin-sass
-
-```
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-
-# Where can I get some?
-
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
-
-> All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet.
-
-### Heading
-
-It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.

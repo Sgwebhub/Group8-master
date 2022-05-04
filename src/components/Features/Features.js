@@ -12,45 +12,22 @@ import {
 
 const Items = [
   {
-    icon: <Bootstrap />,
-    title: "Bootstrap Title",
-    description: "Bootstrap description paragraph.",
+    title: "Science and Technology",
+    description:
+      "Zoology, bio technology Botany, agriculture, animal husbandry Astronomy, Space, ecology, Time travel, Food processing, Communication",
   },
   {
-    icon: <Calendar3 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-
-  {
-    icon: <CpuFill />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
+    title: "Languages",
+    description: "Hindi, English, Sanskrit",
   },
   {
-    icon: <GeoFill />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
+    title: "Biopics",
+    description: "Scientists, Mathematician, Historian, Celebrities",
   },
   {
-    icon: <House />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <Speedometer2 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <Toggles2 />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
-  },
-  {
-    icon: <Tools />,
-    title: "Calender 3",
-    description: "Calender 3 Calender 3 Calender 3",
+    title: "Social Science",
+    description:
+      "Ancient History, Medieval History, Modern History, Indian National Movement, Civics & Political Science",
   },
 ]
 

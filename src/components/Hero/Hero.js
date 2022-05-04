@@ -16,12 +16,14 @@ const Hero = () => {
         <div className="col-lg-6">
           <h1 className="fat-text lh-1 mb-3">
             Hey folks,
-            Welcome to STUDYHALL
-            Hope you are doing well and 
+                        Swagat hai apka! 
           </h1>
           <p className="lead">
-          “STUDYHALL” is a platform which designed in way that anyone can get movies, documentaries and series related to their subjects and topics. This site also explain “ABOUT” section, about the movie that what’s this movies wants to show and how it is related to your subjects.
-      People from the stream like Science (Engineering, Medical, Zoology etc.), History, Political Science and Languages (only Hindi & English) can check out this to find some of good movies /series/documentaries along with books related to their topic
+          We beleive you are also a moviephile who is passienately instrested in films and films theory. Then you have come to the right place.
+
+                 Yes,        STUDY_HALL is here to show you movies and related books to your subject......
+
+          Whatch, learn and enjoy! 
 
           </p>
           <div className="d-grid gap-2 d-md-flex justify-content-md-start">
@@ -29,7 +31,7 @@ const Hero = () => {
               type="button"
               className="btn btn-primary shadow px-4 me-md-2"
             >
-              Explore
+              Movies
             </button>
           </div>
         </div>
