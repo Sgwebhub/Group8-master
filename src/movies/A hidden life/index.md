@@ -1,54 +1,22 @@
 ---
-name: "A Beautiful Mind"
+name: "A Hidden Life"
 year: "2001"
 date: 2019-06-20
 category: "Biopics"
 rating: 8.2
-image: "A beautiful mind"
-description: "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy."
+image: "A Hidden Lifee"
+description: "A Hidden Life is a 2019 epic historical drama film written and directed by Terrence Malick. It stars August Diehl, Valerie Pachner, and Matthias Schoenaerts with both Michael Nyqvist and Bruno Ganz in their final performances. The film depicts the life of Franz Jägerstätter, an Austrian farmer and devout Catholic who refused to fight for the Nazis in World War II. The title is taken from George Eliot's Middlemarch, which in turn derives it from a phrase in the New Testament, the Epistle to the Colossians 3:3: "For you died, and [now] your life is hidden with Christ in God.https://www.imdb.com/title/tt5827916/"
 customField:
   name: "Related Books"
   values:
     [
       {
-        bookname: "India's Ancient Past",
-        authorname: "Ram Sharan Sharma",
-        bookimage: "India's Ancient Past",
+        bookname: "A Hidden Life",
+        authorname: "Terrence Malick",
+        bookimage: "A Hidden Life BA",
       },
-      {
-        bookname: "Ancient India",
-        authorname: "R C Majumdar",
-        bookimage: "Ancient India",
-      },
-      {
-        bookname: "Ancient History of India",
-        authorname: "Sailendra Nath Sen",
-        bookimage: "Ancient History of India",
-      },
+      
     ]
 ---
 
-This historical space mission is a perfect example of remote teams working together in an exemplary way, of decisive leadership with a clear vision and, crucially, of creative ingenuity: coping with challenges by innovating and adapting in response to a situation. So many of us have encountered these elements over the past weeks, handling extreme crisis and change and we are likely to continue facing further challenges in our volatile, uncertain, complex and ambiguous (VUCA) world.
-As the Apollo 13 mission has taught us, those with the ability to respond quickly and adapt will be better prepared to navigate uncertainty successfully as it arises.
-Crisis lessons learned
-
-- Exemplary leadership
-
-- Timely communications
-
-- Supreme teamwork
-
-- Absolute adaptability
-
-- Preparing for the unpredictable
-
-The Apollo 13 crew spent over 400 hours in simulators and flight controllers participated in numerous pre-mission simulations of problems with the spacecraft in flight. NASA’s rigorous preparation, rehearsal, testing and existing procedures proved to be highly adaptable when faced with the new set of issues raised from the Apollo 13 accident.
-
-Yet, most often a crisis is unpredictable. In the eye of a new storm, there may be no precedent for specific action required, as was also the case for Apollo 13. Where there was no precise contingency in place, teams, equipped with their pre-mission preparation, applied past learnings to new improvisation techniques and with the same meticulous obsession and attention to detail they used for everything else: the aim was to reduce risk. This process led to faster, more reliable outcomes.
-Whilst every eventuality cannot be planned for with exact precision, most crisis situations benefit from a predetermined, planned and well-rehearsed course of action should an issue arise. Preparation is key.
-
-Failure was ‘not an option’
-
-50 years later we remember Apollo 13’s triumph over tragedy. The solutions to save the space mission that came so close to disaster has repeatedly been referred to as NASA’s finest hour and the response to the emergency by the steel-willed team, as outstanding. It is a shining example of NASA’s innovative minds working together to save lives.
-
-A little-known fact: whilst the mission failed to reach the Moon it succeeded in setting a world record for reaching the highest altitude attained by a crewed spacecraft at 400,171 km from Earth.
+As seen in A Hidden Life, other people's attempts to convince Franz that he had a responsibility to his family saw no budge in his convictions. While he maintained the ideology that he was only responsible for his own actions, and did not pass judgement onto others (a beautiful conversation between Diehl's character and a Nazi court official alludes to this state of mind), Jägerstätter faced a military trial where he was accused of Wehrkraftzersetzung – undermining of troop morale – and found guilty of sedition. He was sentenced to death.

@@ -1,17 +1,17 @@
 ---
-name: "Alexander"
-year: "2004"
+name: "Ashoka the Great "
+year: "2001"
 date: 2019-06-19
 category: "Social Science"
-rating: 6.1
-image: "Alexander"
+rating: 4.6
+image: "Ashoka the Great"
 description: "This film is intended to be a biography, which begins with Confucius in his later years, during a time of exile, and flashes back to his time as a young man, a teacher, a husband, and a philosopher in the 5th century BCE. The movie retained some criticism for romanticizing the life of the titular character with a few extra action scenes and stories of military."
 customField:
   name: "Related Books"
   values:
     [
       {
-        bookname: "India's Ancient Past",
+        bookname: "Asho",
         authorname: "Ram Sharan Sharma",
         bookimage: "India's Ancient Past",
       },

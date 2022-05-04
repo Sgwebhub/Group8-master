@@ -5,32 +5,23 @@ date: 2019-06-20
 category: "Science and Technology"
 rating: 6
 image: "Anatomy"
-description: "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy."
+description: "Coming from the Greek word “anatome” which means dissection, Anatomy  is the branch of science that deals with the identification and description of the body structures of living things. If you love watching cadaver dissection videos, the movie Anatomy is perfect for you. Here, the medical student Paula Henning is set to investigate the cadaver of a young man and eventually to uncover a conspiracy being kept by a secret society
+Link- https://www.imdb.com/title/tt0187696/
+"
 customField:
   name: "Related Books"
   values:
     [
       {
-        bookname: "India's Ancient Past",
+        bookname: "Autonomy",
         authorname: "Ram Sharan Sharma",
-        bookimage: "India's Ancient Past",
+        bookimage: "Auto",
       },
-      {
-        bookname: "Ancient India",
-        authorname: "R C Majumdar",
-        bookimage: "Ancient India",
-      },
-      {
-        bookname: "Ancient History of India",
-        authorname: "Sailendra Nath Sen",
-        bookimage: "Ancient History of India",
-      },
+     
     ]
 ---
 
-This historical space mission is a perfect example of remote teams working together in an exemplary way, of decisive leadership with a clear vision and, crucially, of creative ingenuity: coping with challenges by innovating and adapting in response to a situation. So many of us have encountered these elements over the past weeks, handling extreme crisis and change and we are likely to continue facing further challenges in our volatile, uncertain, complex and ambiguous (VUCA) world.
-As the Apollo 13 mission has taught us, those with the ability to respond quickly and adapt will be better prepared to navigate uncertainty successfully as it arises.
-Crisis lessons learned
+
 
 - Exemplary leadership
 

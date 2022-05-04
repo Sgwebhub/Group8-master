@@ -11,20 +11,11 @@ customField:
   values:
     [
       {
-        bookname: "India's Ancient Past",
+        bookname: "Avatar",
         authorname: "Ram Sharan Sharma",
-        bookimage: "India's Ancient Past",
+        bookimage: "AvatS",
       },
-      {
-        bookname: "Ancient India",
-        authorname: "R C Majumdar",
-        bookimage: "Ancient India",
-      },
-      {
-        bookname: "Ancient History of India",
-        authorname: "Sailendra Nath Sen",
-        bookimage: "Ancient History of India",
-      },
+      
     ]
 ---
 
