@@ -1,10 +1,10 @@
 ---
-name: "A Beautiful Mind"
+name: "Bridge of spies"
 year: "2001"
 date: 2019-06-20
 category: "Biopics"
 rating: 8.2
-image: "A beautiful mind"
+image: "Bridge of spies"
 description: "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy."
 customField:
   name: "Related Books"

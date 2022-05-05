@@ -1,10 +1,10 @@
 ---
-name: "Apollo 13"
+name: "Fast and Furious"
 year: "1995"
 date: 2019-06-19
 category: "Science and Technology"
 rating: 7.7
-image: "Apollo 13"
+image: "Fast and Furious"
 description: "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy."
 customField:
   name: "Related Books"

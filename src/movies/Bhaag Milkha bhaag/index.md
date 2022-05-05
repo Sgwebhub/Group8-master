@@ -1,10 +1,10 @@
 ---
-name: "A Beautiful Mind"
+name: "Bhaag Milkha bhaag"
 year: "2001"
 date: 2019-06-20
 category: "Biopics"
 rating: 8.2
-image: "A beautiful mind"
+image: "Bhaag Milkha bhaag"
 description: "NASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy."
 customField:
   name: "Related Books"
@@ -27,28 +27,31 @@ customField:
       },
     ]
 ---
+‘Bhaag Milkha Bhaag’, which touches the hearts of viewers, motivates and inspires to follow our goals in life, also has a lot to offer from the perspective of financial planning. Let’s have a discussion on “5 financial planning lessons from the movie Bhaag Milkha Bhaag.”
 
-This historical space mission is a perfect example of remote teams working together in an exemplary way, of decisive leadership with a clear vision and, crucially, of creative ingenuity: coping with challenges by innovating and adapting in response to a situation. So many of us have encountered these elements over the past weeks, handling extreme crisis and change and we are likely to continue facing further challenges in our volatile, uncertain, complex and ambiguous (VUCA) world.
-As the Apollo 13 mission has taught us, those with the ability to respond quickly and adapt will be better prepared to navigate uncertainty successfully as it arises.
-Crisis lessons learned
+(1) Set goals at various stages of life then run (follow) to achieve them
 
-- Exemplary leadership
+In the Farhan Akhtar-starrer, Milkha Singh is seen running in different stages of his life for a variety of goals. Let’s take a look at
+these:
 
-- Timely communications
+A young Milkha runs in hot sands from school to reach home early. Later, he’s seen running from people who attack his family, and from other kids after beating his brother-in-law.
 
-- Supreme teamwork
+Runs atop a train after stealing coal
 
-- Absolute adaptability
+During his training in the Indian Army, Milkha runs in the cross-country race to earn a mug full of milk, 2 eggs and relief from exercise each day
 
-- Preparing for the unpredictable
+Similarly, we need to set financial goals in different stages of life, adapt to situations that come our way (cash flow) and follow a financial plan with dedication to achieve them.
 
-The Apollo 13 crew spent over 400 hours in simulators and flight controllers participated in numerous pre-mission simulations of problems with the spacecraft in flight. NASA’s rigorous preparation, rehearsal, testing and existing procedures proved to be highly adaptable when faced with the new set of issues raised from the Apollo 13 accident.
+(2) Nothing is impossible to the mind that believes
 
-Yet, most often a crisis is unpredictable. In the eye of a new storm, there may be no precedent for specific action required, as was also the case for Apollo 13. Where there was no precise contingency in place, teams, equipped with their pre-mission preparation, applied past learnings to new improvisation techniques and with the same meticulous obsession and attention to detail they used for everything else: the aim was to reduce risk. This process led to faster, more reliable outcomes.
-Whilst every eventuality cannot be planned for with exact precision, most crisis situations benefit from a predetermined, planned and well-rehearsed course of action should an issue arise. Preparation is key.
+In movie, Milkha singhs coach challenges him to defeat the current champion. Milkha singh accepted the challenge with confidence and faith.
 
-Failure was ‘not an option’
 
-50 years later we remember Apollo 13’s triumph over tragedy. The solutions to save the space mission that came so close to disaster has repeatedly been referred to as NASA’s finest hour and the response to the emergency by the steel-willed team, as outstanding. It is a shining example of NASA’s innovative minds working together to save lives.
+ 
+Similarly while financial planning one should be strong from his/ her mind and follow what he/ she believes. Dont get influenced from the fellow financial planners and get adapted to their style of financial planning. Create niche for yourself in the market.
 
-A little-known fact: whilst the mission failed to reach the Moon it succeeded in setting a world record for reaching the highest altitude attained by a crewed spacecraft at 400,171 km from Earth.
+(3) Earn things you really need and dont eye others things with greed
+
+Milkha Singh, as seen in the film, is astonished to see a blazer worn by champion runner Sher Singh Rana. One day, when Milkha picks up and wears the blazer, just to get a feel of it, he’s attacked and insulted. Coach Gurudev Singh slaps Milkha, explaining that it is not easy to get things you like and that you need to work hard to earn them.
+
+

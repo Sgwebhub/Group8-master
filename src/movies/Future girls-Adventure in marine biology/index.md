@@ -1,5 +1,5 @@
 ---
-name: "Apollo 13"
+name: ""
 year: "1995"
 date: 2019-06-19
 category: "Science and Technology"

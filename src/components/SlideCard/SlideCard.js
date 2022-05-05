@@ -12,13 +12,33 @@ const Item = [
     rating: "7.7",
   },
   {
+    name: "Alexander",
+    year: "1995",
+    path: "/Alexander/",
+    image: "Alexander",
+    rating: "7.7",
+  },
+  {
     name: "Batman",
     year: "2022",
     path: "/Batman/",
     image: "Batman",
     rating: "8.1",
   },
-  
+   {
+    name: "A Plastic Ocean",
+    year: "2016",
+    path: "/A Plastic Ocean/",
+    image: "A Plastic Ocean",
+    rating: "8.1",
+  },
+  {
+    name: "Avatar",
+    year: "2022",
+    path: "/Avatar/",
+    image: "Avatar",
+    rating: "8.1",
+  },
   {
     name: "Confucius",
     year: "2010",
